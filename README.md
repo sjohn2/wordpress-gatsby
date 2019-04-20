@@ -1,5 +1,5 @@
 # Wordpress Docker Compose starter
-Easy to use WordPress, MySql & PHPMYAdmin Docker and Docker Compose.
+Easy to use WordPress, MySql & PHPMYAdmin Docker Compose starter.
 
 # Requirements
 Install latest versions of Docker and Docker Compose [https://docs.docker.com/get-started/] .
