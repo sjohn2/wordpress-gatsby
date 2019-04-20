@@ -25,5 +25,5 @@ docker-compose down
 ```
 
 # Accessing the site
-You can visit http://localhost to setup / browser site
+You can visit http://localhost:8000 to setup / browser site
 For PHPMyAdmin access visit: http://localhost:8080 . User Id: root, Password: refer .env file
